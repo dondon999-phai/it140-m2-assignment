@@ -2,34 +2,21 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using the course IDE for my first programming assignment was a good way to become familiar with writing and testing Python code. At first, it took some practice to understand how to enter the code, run the program, and check the output. The three IDE features I found most useful were the code editor, run/execute feature, and error feedback. Learning how to use these features is important for a beginning programmer because they make it easier to write, test, and correct code.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Code Editor
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The code editor is the main area where I wrote my Python program. It made it easier to organize my code because each line was clearly separated and the code was displayed in a way that was easy to read. For example, I used the editor to enter name = input("What is your name? ") and age = int(input("How old are you? ")). Being able to see the different lines of code helped me understand how each instruction worked and made it easier to make changes when needed.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Run/Execute
 
-TODO: Replace with your Feature 1 paragraph here.
+The run or execute feature allowed me to test my program and see what it actually did. After writing my code, I could run it and enter information when the program asked for my name and age. This helped me understand how input, variables, and output work together. For example, when the program ran, it calculated the birth year using birth_year = 2026 - age and then displayed a personalized message. Being able to immediately run the program made it easier to test my work and see whether it was working as expected.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Error Feedback
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The IDE's error feedback was another useful feature because it helped me identify problems in my code. When a program contains a mistake, the IDE can point out where the problem occurred and provide information about the error. This is helpful for beginning programmers because small mistakes, such as missing quotation marks or parentheses, can prevent a program from running correctly. Using the IDE to identify and correct errors helped me understand that debugging is a normal and important part of programming.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+Using the IDE for my first programming assignment helped me become more comfortable with writing and testing Python code. I learned that the code editor helps with organization, the run feature allows me to test my program, and error feedback helps me find problems. These features will be useful in future programming assignments because they can make coding and debugging easier. Overall, using the IDE gave me more confidence in my ability to write programs and solve coding problems.
 
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
